@@ -1,0 +1,5 @@
+#0c0032-5 purple
+#190061-4 purple
+#240090-3 purple
+#3500d3-2 purple
+#282828-dark grey
